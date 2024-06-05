@@ -13,3 +13,8 @@
 .country img {
   width: 200px;
 }
+
+.officialName {
+  font-size: x-small;
+  /* text-decoration: underline; */
+}
